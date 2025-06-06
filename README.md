@@ -1,6 +1,6 @@
 # Tap to Forget
 
-A React + TypeScript application designed to help elderly users and people with ADHD by providing reminders, voice notes, and quick recaps — empowering memory assistance in a simple and accessible way.
+An intuitive React + TypeScript web app designed to help users quickly forget or clear unwanted memories, messages, or reminders — offering a simple way to "tap and forget" what you no longer want to remember.
 
 ---
 
@@ -49,18 +49,11 @@ A React + TypeScript application designed to help elderly users and people with 
 
 ## Features
 
-- Add and manage reminders with easy inputs
-- Voice notes and recognition to store and recall important details
-- PDF certificate generation upon milestones
-- Interactive UI with smooth animations and sound feedback
-- Responsive design with accessible fonts and icons
-
-## Challenges Faced
-
-- Integrating Web Speech API consistently across browsers
-- Managing global state efficiently with React Context
-- Handling PDF generation dynamically with jsPDF
-- Optimizing build with Vite and fixing deployment issues on Netlify
+- Add and manage reminders and notes to quickly forget or clear them
+- Voice input to capture messages hands-free
+- Generate PDF certificates on milestone achievements
+- Engaging UI animations and sound effects to improve user experience
+- Responsive and accessible design with custom fonts and icons
 
 ## License
 - MIT License © Harsh Sawant
